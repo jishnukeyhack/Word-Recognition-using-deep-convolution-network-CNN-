@@ -90,8 +90,8 @@ You will need Python 3.7+ and the following libraries installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/word-recognition-cnn.git](https://github.com/your-username/word-recognition-cnn.git)
-    cd word-recognition-cnn
+    git clone [https://github.com/jishnukeyhack/Word-Recognition-using-deep-convolution-network-CNN.git](https://github.com/jishnukeyhack/Word-Recognition-using-deep-convolution-network-CNN.git)
+    cd Word-Recognition-using-deep-convolution-network-CNN
     ```
 
 2.  **Create a virtual environment (recommended):**
